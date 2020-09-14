@@ -95,6 +95,9 @@ Ext.application({
                         console.log(record.data.id);
                         console.log(record.data);
                         document.getElementById('selTree').innerHTML = 'Выбрана клиника ' + record.data.text;
+
+                        document.getElementById('countData').innerHTML = '';
+                        document.getElementById('selClient').innerHTML = '';
     
                         nodeId = record.data.id;
                         htmlId = item.id;
