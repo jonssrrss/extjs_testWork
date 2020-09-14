@@ -2,6 +2,7 @@
 <html lang="ru">
 <head>
 
+    <!-- <link href="https://cdnjs.cloudflare.com/ajax/libs/extjs/6.0.0/classic/theme-crisp/resources/theme-crisp-all.css" rel="stylesheet"> -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/extjs/6.0.0/classic/theme-classic/resources/theme-classic-all.css" rel="stylesheet">
 
     <meta charset="UTF-8">
